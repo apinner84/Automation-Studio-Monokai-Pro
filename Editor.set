@@ -38,6 +38,7 @@
         <Item Name="Operator">
         </Item>
         <Item Name="Linenumber">
+          <ForeColor Red="192" Green="192" Blue="192" />
         </Item>
         <Item Name="PrintPageBoundaries">
           <ForeColor Red="127" Green="127" Blue="127" />
@@ -66,7 +67,7 @@
           <ForeColor Red="169" Green="220" Blue="118" />
         </Item>
         <Item Name="Name">
-          <ForeColor Red="255" Green="255" Blue="255" />
+          <ForeColor Red="245" Green="245" Blue="245" />
         </Item>
         <Item Name="Remark">
           <ForeColor Red="128" Green="128" Blue="128" />
@@ -108,7 +109,7 @@
           <ForeColor Red="211" Green="211" Blue="211" />
         </Item>
         <Item Name="IncludeFiles">
-          <ForeColor Red="128" Green="128" Blue="192" />
+          <ForeColor Red="252" Green="152" Blue="103" />
         </Item>
       </Items>
     </Category>
@@ -194,7 +195,7 @@
       <SelectionBackColor Red="120" Green="220" Blue="232" />
       <Items>
         <Item Name="Text">
-          <ForeColor Red="255" Green="255" Blue="255" />
+          <ForeColor Red="225" Green="225" Blue="225" />
         </Item>
         <Item Name="TextSelection">
           <ForeColor Red="40" Green="40" Blue="40" />
